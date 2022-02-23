@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{32F300CA-C34D-4E1F-A7AF-A627CB2774AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto</RootNamespace>
+    <AssemblyName>Projeto</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apartamento.cs" />
+    <Compile Include="bdCondominioDataSet.cs">
+      <DependentUpon>bdCondominioDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bdCondominioDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdCondominioDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdCondominioDataSet21.cs">
+      <DependentUpon>bdCondominioDataSet21.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bdCondominioDataSet21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdCondominioDataSet21.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroApart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroApart.Designer.cs">
+      <DependentUpon>cadastroApart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroCond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroCond.Designer.cs">
+      <DependentUpon>cadastroCond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroConta.Designer.cs">
+      <DependentUpon>cadastroConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroMora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroMora.Designer.cs">
+      <DependentUpon>cadastroMora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastroMulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroMulta.Designer.cs">
+      <DependentUpon>cadastroMulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroProprietario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroProprietario.Designer.cs">
+      <DependentUpon>CadastroProprietario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastros.Designer.cs">
+      <DependentUpon>Cadastros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Condominio.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="editarApartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarApartamento.Designer.cs">
+      <DependentUpon>editarApartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarCondominio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarCondominio.Designer.cs">
+      <DependentUpon>editarCondominio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarConta.Designer.cs">
+      <DependentUpon>editarConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarMorador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarMorador.Designer.cs">
+      <DependentUpon>editarMorador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarMulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarMulta.Designer.cs">
+      <DependentUpon>editarMulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarMultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarMultar.Designer.cs">
+      <DependentUpon>editarMultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarProprietario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarProprietario.Designer.cs">
+      <DependentUpon>editarProprietario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editarRateioConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editarRateioConta.Designer.cs">
+      <DependentUpon>editarRateioConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="entity_Conta.cs" />
+    <Compile Include="entity_TipoConta.cs" />
+    <Compile Include="entity_Multa.cs" />
+    <Compile Include="entity_TipoMulta.cs" />
+    <Compile Include="entity_Apartamento.cs" />
+    <Compile Include="entity_Condominio.cs" />
+    <Compile Include="entity_Morador.cs" />
+    <Compile Include="entity_Proprietario.cs" />
+    <Compile Include="Morador.cs" />
+    <Compile Include="Multa.cs" />
+    <Compile Include="Multar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multar.Designer.cs">
+      <DependentUpon>Multar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Programa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programa.Designer.cs">
+      <DependentUpon>Programa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Proprietario.cs" />
+    <Compile Include="RatearConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RatearConta.Designer.cs">
+      <DependentUpon>RatearConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RateioConta.cs" />
+    <Compile Include="RelatorioApart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioApart.Designer.cs">
+      <DependentUpon>RelatorioApart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioCondominio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioCondominio.Designer.cs">
+      <DependentUpon>RelatorioCondominio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioMorador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioMorador.Designer.cs">
+      <DependentUpon>RelatorioMorador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioProprietario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioProprietario.Designer.cs">
+      <DependentUpon>RelatorioProprietario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioTipoMulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioTipoMulta.Designer.cs">
+      <DependentUpon>RelatorioTipoMulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatórios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatórios.Designer.cs">
+      <DependentUpon>Relatórios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioMulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioMulta.Designer.cs">
+      <DependentUpon>RelatorioMulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoConta.cs" />
+    <Compile Include="TipoMulta.cs" />
+    <Compile Include="us.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="us.Designer.cs">
+      <DependentUpon>us.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cadastroApart.resx">
+      <DependentUpon>cadastroApart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastroCond.resx">
+      <DependentUpon>cadastroCond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastroConta.resx">
+      <DependentUpon>cadastroConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastroMora.resx">
+      <DependentUpon>cadastroMora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastroMulta.resx">
+      <DependentUpon>cadastroMulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroProprietario.resx">
+      <DependentUpon>CadastroProprietario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastros.resx">
+      <DependentUpon>Cadastros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarConta.resx">
+      <DependentUpon>editarConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarRateioConta.resx">
+      <DependentUpon>editarRateioConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RatearConta.resx">
+      <DependentUpon>RatearConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportApart2.rdlc" />
+    <EmbeddedResource Include="editarMultar.resx">
+      <DependentUpon>editarMultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarApartamento.resx">
+      <DependentUpon>editarApartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarCondominio.resx">
+      <DependentUpon>editarCondominio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarMorador.resx">
+      <DependentUpon>editarMorador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarMulta.resx">
+      <DependentUpon>editarMulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editarProprietario.resx">
+      <DependentUpon>editarProprietario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multar.resx">
+      <DependentUpon>Multar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programa.resx">
+      <DependentUpon>Programa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioApart.resx">
+      <DependentUpon>RelatorioApart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioCondominio.resx">
+      <DependentUpon>RelatorioCondominio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioMorador.resx">
+      <DependentUpon>RelatorioMorador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioMulta.resx">
+      <DependentUpon>RelatorioMulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioProprietario.resx">
+      <DependentUpon>RelatorioProprietario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioTipoMulta.resx">
+      <DependentUpon>RelatorioTipoMulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatórios.resx">
+      <DependentUpon>Relatórios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportApart.rdlc" />
+    <EmbeddedResource Include="ReportCondominio.rdlc" />
+    <EmbeddedResource Include="ReportMorador.rdlc" />
+    <EmbeddedResource Include="ReportMultar.rdlc" />
+    <EmbeddedResource Include="ReportProprietario.rdlc" />
+    <EmbeddedResource Include="ReportTipoMulta.rdlc" />
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="us.resx">
+      <DependentUpon>us.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bdCondominioDataSet.xsc">
+      <DependentUpon>bdCondominioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdCondominioDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdCondominioDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdCondominioDataSet.xss">
+      <DependentUpon>bdCondominioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdCondominioDataSet21.xsc">
+      <DependentUpon>bdCondominioDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="bdCondominioDataSet21.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdCondominioDataSet21.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdCondominioDataSet21.xss">
+      <DependentUpon>bdCondominioDataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

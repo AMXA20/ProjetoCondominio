@@ -1,0 +1,449 @@
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\bin\Debug\Projeto.exe
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\bin\Debug\Projeto.pdb
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\bin\Debug\Projeto.exe
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\bin\Debug\Projeto.pdb
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\bin\Debug\Projeto.exe
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\bin\Debug\Projeto.pdb
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+K:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+E:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+F:\3º Semestre\DS II\16.03.29\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+H:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe
+H:\c sharp\Projeto\Projeto\bin\Debug\Projeto.pdb
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+I:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe
+I:\c sharp\Projeto\Projeto\bin\Debug\Projeto.pdb
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+D:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe
+D:\c sharp\Projeto\Projeto\bin\Debug\Projeto.pdb
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+D:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe.config
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+D:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+E:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe.config
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+I:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe.config
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+H:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe.config
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+H:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+E:\c sharp\Projeto\Projeto\bin\Debug\Projeto.exe
+E:\c sharp\Projeto\Projeto\bin\Debug\Projeto.pdb
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+E:\c sharp\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+C:\Users\aluno4\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+C:\Users\aluno4\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\aluno4\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+I:\c sharp\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+H:\Projeto\Projeto\bin\Debug\Projeto.exe.config
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+H:\Projeto\Projeto\bin\Debug\Projeto.exe
+H:\Projeto\Projeto\bin\Debug\Projeto.pdb
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+H:\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+H:\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+H:\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+I:\Projeto\Projeto\bin\Debug\Projeto.exe.config
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+I:\Projeto\Projeto\bin\Debug\Projeto.exe
+I:\Projeto\Projeto\bin\Debug\Projeto.pdb
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+I:\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+I:\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+I:\ \Projeto\Projeto\bin\Debug\Projeto.exe.config
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.exe
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+I:\ \Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+I:\ \Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+I:\ \Projeto\Projeto\bin\Debug\Projeto.exe
+I:\ \Projeto\Projeto\bin\Debug\Projeto.pdb
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+K:\ \Projeto\Projeto\bin\Debug\Projeto.exe.config
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.exe
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+K:\ \Projeto\Projeto\bin\Debug\Projeto.exe
+K:\ \Projeto\Projeto\bin\Debug\Projeto.pdb
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+K:\ \Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+K:\ \Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+K:\ \Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarConta.resources
+I:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarRateioConta.resources
+H:\ \Projeto\Projeto\bin\Debug\Projeto.exe.config
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.exe
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+H:\ \Projeto\Projeto\bin\Debug\Projeto.exe
+H:\ \Projeto\Projeto\bin\Debug\Projeto.pdb
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarConta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarRateioConta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+H:\ \Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+H:\ \Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+H:\ \Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarConta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.editarRateioConta.resources
+C:\Users\aluno4\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarConta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.editarRateioConta.resources
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+K:\Projeto\Projeto\bin\Debug\Projeto.exe.config
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+K:\Projeto\Projeto\bin\Debug\Projeto.exe
+K:\Projeto\Projeto\bin\Debug\Projeto.pdb
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarConta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarRateioConta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+K:\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+K:\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+K:\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+M:\Projeto\Projeto\bin\Debug\Projeto.exe.config
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
+M:\Projeto\Projeto\bin\Debug\Projeto.exe
+M:\Projeto\Projeto\bin\Debug\Projeto.pdb
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.csprojResolveAssemblyReference.cache
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroApart.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroCond.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroConta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMora.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.cadastroMulta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.CadastroProprietario.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.Cadastros.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarConta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarRateioConta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RatearConta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMultar.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.Form1.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarApartamento.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarCondominio.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMorador.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarMulta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.editarProprietario.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.Multar.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.Programa.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.Properties.Resources.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioApart.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioCondominio.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMorador.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioMulta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioProprietario.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.RelatorioTipoMulta.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.Relatórios.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.us.resources
+M:\Projeto\Projeto\obj\x86\Debug\Projeto.csproj.GenerateResource.Cache
+M:\Projeto\Projeto\obj\x86\Debug\RdlCompile.cache
+M:\Projeto\Projeto\obj\x86\Debug\RdlCompile.compiled
+I:\Projeto\Projeto\obj\x86\Debug\Projeto.Splash.resources
+C:\Users\Alexandre\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Alexandre\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.exe
+C:\Users\Alexandre\Desktop\Projeto\Projeto\obj\x86\Debug\Projeto.pdb
